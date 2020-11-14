@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Home",
+        "esDesplegable": false
+    },
+    {
+        "nombre": "Servicios",
+        "esDesplegable": true
+    },
+    {
+        "nombre": "Tecnologías",
+        "esDesplegable": true
+    },
+    {
+        "nombre": "Sobre nosotros",
+        "esDesplegable": false
+    },
+    {
+        "nombre": "Contacto",
+        "esDesplegable": false
+    }
+]
