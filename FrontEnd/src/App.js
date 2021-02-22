@@ -1,9 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-import Header from './Components/Pages/Header.tsx'
+import Header from './Components/Commons/Header/Header.tsx'
 function App() {
   return (
-    <Header/>
+      <Header />
   );
 }
 
